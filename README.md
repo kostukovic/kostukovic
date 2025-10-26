@@ -11,7 +11,7 @@
 ![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 
