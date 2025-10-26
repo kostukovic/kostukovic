@@ -3,7 +3,7 @@
 ## 🧰 Technologies
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
+![C++](https://img.shields.io/badge/-Cpp-black?style=flat-square&logo=c++)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
