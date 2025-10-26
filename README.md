@@ -2,7 +2,7 @@
 
 ## 🧰 Technologies
 * ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-* ![C++](https://img.shields.io/badge/-Cpp-black?style=flat-square&logo=cpp)
+* ![C++]([https://img.shields.io/badge/-Cpp-black?style=flat-square&logo=cpp](https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=cplusplus&logoColor=white)
 * ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 * ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 * ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
